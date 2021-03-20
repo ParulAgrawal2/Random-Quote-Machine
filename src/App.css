@@ -1,0 +1,19 @@
+.container-fluid{
+  height: 100vh;
+}
+
+#quote-box{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 200px; 
+  font-family: 'sans-serif';
+  
+}
+
+#author{
+  margin-left: 200px;
+}
+
+#tweet-quote{
+  color: 'blue';
+}
